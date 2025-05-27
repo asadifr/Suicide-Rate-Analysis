@@ -7,7 +7,7 @@ Analysis of suicide rates based on ethnicity, gender, age, and disability status
 3.data_cleaning.py: Script of code used for  cleaning dataset  and analysing data.
 4. README.md: This file.
 
-### How to Use
+## How to Use
 1. Make sure Python 3.x installed on your computer
 2.  For the required libraries, the Installation commands are included at the beginning of both the Jupyter notebook (sucide_analysis.ipynb`) and the script (data_cleaning.py). Please run those commands.
 Alternatively, you can run the following in your terminal:
@@ -20,7 +20,7 @@ Open Jupyter Notebook or JupyterLab on your computer.
 Navigate to the project folder and open the notebook file (Sucide_analysis (1)).
 5 Run the notebook cells from top to bottom to see the full analysis
 
-#### Result
+## Result
 The analysis generates visualizations that show the differences in the mean suicide rate by  various characteristics, such as ethnicity, sex/gender, age, and disability status.
 
 Contact 
