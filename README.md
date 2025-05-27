@@ -1,5 +1,5 @@
 # Suicide-Rate-Analysis
-Analysis of suicide rates based on ethnicity, gender, age, and disability status in Wale  and England (2011-2021)
+Analysis of suicide rates based on ethnicity, gender, age, and disability status in  England and Walse  (2011-2021)
 
 ## Files
 1.suicide_rates.xlsx: The dataset that was used for this analysis
